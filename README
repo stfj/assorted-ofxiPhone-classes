@@ -1,6 +1,12 @@
 assorted ofxiPhone classes
 zach gage - stfj.net
 
+v2.
+******
+ofxALSoundPlayer - Due to major update, this has been REMOVED. Please use:
+https://github.com/stfj/ofxOpenALSoundPlayer
+******
+
 v1.
 a few assorted iphone classes that i've created while working in ofxiPhone that weren't quite appropriate to fit into the library for different reasons.
 
@@ -13,6 +19,3 @@ ofxiPhoneGameKit - Class for using apple's gameKit framework in your app. Make s
 ofxiPhoneOpenFeint - A class for implementing the openFeint social network in your app. You'll need the openFeint library as well : http://www.openfeint.com/
 
 ofxiPhoneRawDataPOSTer - A class for posting text data in the RAW format to a php script. Useful for sharing text files online from your app.
-
-ofxALSoundPlayer - Due to major update, this has been REMOVED. Please use:
-https://github.com/stfj/ofxOpenALSoundPlayer
